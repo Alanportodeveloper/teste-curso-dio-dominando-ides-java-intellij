@@ -1,5 +1,6 @@
 package br.com.dio;
 
+
 import br.com.dio.model.Gato;
 
 public class PrimeiroPrograma {
@@ -9,6 +10,6 @@ public class PrimeiroPrograma {
 
         /*int a = 5;
         int b = 3;
-        System.out.println("Hello Wolrd!" + "A soma de A+B, é igual a: " + (a+b));*/
+        System.out.println("Hello World!" + "A soma de A+B, é igual a: " + (a+b));*/
     }
 }
